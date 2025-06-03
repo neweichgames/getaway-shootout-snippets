@@ -1,0 +1,1 @@
+This repository contains snippets from the original Getaway Shootout game. Note that the code is messy. Check out the tutorial series for more organized code: [GitHub](https://github.com/neweichgames/getaway-shootout-tutorial-series).
